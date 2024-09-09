@@ -8,3 +8,6 @@ Answer: Data science could be used in healthcare to analyze conditions and predi
 Q3: What is the difference between merging and rebasing?
 
 Answer: Merging preserves the historical context while rebasing creates a linear history.
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to improve my data preprocessing, data science, and machine learning skill in this course. 
